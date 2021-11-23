@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple Typing Game using React js
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+this is a typing game where you can type words within a minute and it shows WPM and accuracy as result 
 
 ## Available Scripts
 
